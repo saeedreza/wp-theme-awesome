@@ -13,4 +13,5 @@ A curated list of well developed Wordpress themes
 - [Blankslate](https://github.com/tidythemes/blankslate) - The bare essentials of a WordPress theme
 - [Cornerstone](https://github.com/thewirelessguy/cornerstone) - Starter theme based on the Zurb Foundation Responsive Framework
 - [WP Flex](https://github.com/grayghostvisuals/WP-Flex) - A responsive, foundational WordPress theme boilerplate
+- [WP Starter Boilerplate](https://github.com/saeedreza/wordpress-starter-boilerplate) - An absolute minimum Worpdress starter theme
 - [Chipmunk](http://chipmunktheme.com/) - Curate the Internet Like A Pro 
