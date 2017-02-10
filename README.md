@@ -9,9 +9,10 @@ A curated list of well developed Wordpress themes
 - [Sage](https://github.com/roots/sage) - The best WordPress starter theme with a modern front-end development workflow.
 - [Bedrock](https://github.com/roots/bedrock) - WordPress boilerplate with modern development tools, easier configuration, and an improved folder structure.
 - [Foundationpress](https://foundationpress.olefredrik.com/) - A starter-theme for WordPress based on Foundation 6
-- [Understrap](https://github.com/holger1411/understrap) - Combination of Automattic´s _s theme and Bootstrap 4.
+- [Understrap](https://github.com/holger1411/understrap) - Combination of Automattic´s _s theme and Bootstrap 4
 - [Blankslate](https://github.com/tidythemes/blankslate) - The bare essentials of a WordPress theme
 - [Cornerstone](https://github.com/thewirelessguy/cornerstone) - Starter theme based on the Zurb Foundation Responsive Framework
 - [WP Flex](https://github.com/grayghostvisuals/WP-Flex) - A responsive, foundational WordPress theme boilerplate
 - [WP Starter Boilerplate](https://github.com/saeedreza/wordpress-starter-boilerplate) - An absolute minimum Worpdress starter theme
 - [Chipmunk](http://chipmunktheme.com/) - Curate the Internet Like A Pro 
+- [Joints](https://github.com/JeremyEnglert/JointsWP) - A blank WordPress theme built with Foundation 6
